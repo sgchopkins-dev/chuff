@@ -1,0 +1,3 @@
+pandas
+certifi
+rfc5424-logging-handler
